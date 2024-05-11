@@ -1,0 +1,173 @@
+Step 1 : Learn the basics
+
+Lec 1: Things to Know in C++/Java/Python or any language
+	
+User Input / Output
+
+Data Types
+
+If Else statements
+
+Switch Statement
+
+What are arrays, strings?
+
+For loops
+
+While loops
+
+Functions (Pass by Reference and Value)
+
+Time Complexity [Learn Basics, and then analyse in next Steps]
+
+Lec 2: Build-up Logical Thinking
+
+Patterns
+
+Lec 3: Learn STL/Java-Collections or similar thing in your language
+
+C++ STL
+
+Java Collections
+
+Lec 4: Know Basic Maths
+
+Count Digits
+
+Reverse a Number
+
+Check Palindrome
+
+GCD Or HCF
+
+Armstrong Numbers
+
+Print all Divisors
+
+Check for Prime
+
+Lec 5: Learn Basic Recursion
+
+Understand recursion by print something N times
+
+Print name N times using recursion
+
+Print 1 to N using recursion
+
+Print N to 1 using recursion
+
+Sum of first N numbers
+
+Factorial of N numbers
+
+Reverse an array
+
+Check if a string is palindrome or not
+
+Fibonacci Number
+
+Lec 6: Learn Basic Hashing
+
+Hashing Theory
+
+Counting frequencies of array elements
+
+Find the highest/lowest frequency element
+
+Step 2 : Learn Important Sorting Techniques
+
+Lec 1: Sorting-I
+
+Selection Sort Bubble Sort Insertion Sort
+
+Lec 2: Sorting-II
+
+Merge Sort Recursive Bubble Sort Recursive Insertion Sort Quick Sort
+
+Step 3 : Solve Problems on Arrays [Easy -> Medium -> Hard]
+
+Lec 1: Easy
+
+Largest Element in an Array
+
+Second Largest Element in an Array without sorting
+
+Check if the array is sorted
+
+Remove duplicates from Sorted array
+
+Left Rotate an array by one place
+
+Left rotate an array by D places
+
+Move Zeros to end
+
+Linear Search
+
+Find the Union
+
+Find missing number in an array
+
+Maximum Consecutive Ones
+
+Find the number that appears once, and other numbers twice.
+
+Longest subarray with given sum K(positives)
+
+Longest subarray with sum K (Positives + Negatives)
+
+Lec 2: Medium
+
+2 Sum Problem
+
+Sort an array of 0's 1's and 2's
+
+Majority Element (>n/2 times)
+
+Kadane's Algorithm, maximum subarray sum
+
+Print subarray with maximum subarray sum (extended version of above problem)
+
+Stock Buy and Sell
+
+Rearrange the array in alternating positive and negative items
+
+Next Permutation
+
+Leaders in an Array problem
+
+Longest Consecutive Sequence in an Array
+
+Set Matrix Zeros
+
+Rotate Matrix by 90 degrees
+
+Print the matrix in spiral manner
+
+Count subarrays with given sum
+
+Lec 3: Hard
+
+Pascal's Triangle
+
+Majority Element (n/3 times)
+
+3-Sum Problem
+
+4-Sum Problem
+
+Largest Subarray with 0 Sum
+
+Count number of subarrays with given xor K
+
+Merge Overlapping Subintervals
+
+Merge two sorted arrays without extra space
+
+Find the repeating and missing number
+
+Count Inversions
+
+Reverse Pairs
+
+Maximum Product Subarray
